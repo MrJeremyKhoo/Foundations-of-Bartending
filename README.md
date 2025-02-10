@@ -5,7 +5,7 @@
 
 The first book, **"Foundations of Bartending: Sweetness,"** delves into the role of sweetness in drinks—sugars, syrups, and liqueurs—and their impact on balance in cocktails.  
 
-Built using **[Hugo](https://gohugo.io/)**, this guide is a hands-on exploration of bartending’s science and art.  
+Built using **[Hugo](https://gohugo.io/)**, with Lotus Docs template this guide is a hands-on exploration of bartending’s science and art.  
 
 ---
 
