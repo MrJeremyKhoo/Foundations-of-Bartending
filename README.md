@@ -11,7 +11,9 @@ Built using **[Hugo](https://gohugo.io/)**, with Lotus Docs template this guide 
 
 ## **Table of Contents**  
 - [Introduction](#introduction)  
-- [First Book: Sweetness](#first-book-sweetness)  
+- [First Book: Sweetness](#first-book-sweetness)
+- [Second Book: Freezing](#second-book-freezing)
+- [Third Book: Alcohol](#third-book-freezing)
 - [Core Topics](#core-topics)  
 - [Getting Started](#getting-started)  
 - [Project Structure](#project-structure)  
