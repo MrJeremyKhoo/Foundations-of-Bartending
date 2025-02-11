@@ -1,6 +1,6 @@
 # **Foundations of Bartending**  
 
-As I was learning, I wanted a Foundational book on bartending. Independent of the product, trends and recipe. Sentiment and Market change; books on bartending quickly be come outdated. I hope this work will outlive its time.
+I wanted a Foundational book on bartending. Independent of the product, trends and recipe. Sentiment and Market change; books on bartending quickly be come outdated. I hope this work will outlive its time.
 
 Built using **[Hugo](https://gohugo.io/)**, with Lotus Docs template this guide is a hands-on exploration of bartending’s science and art.  
 
