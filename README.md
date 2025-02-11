@@ -1,11 +1,12 @@
 # **Foundations of Bartending**  
 
-As I was learning, I wanted a Foundational book on bartending. Independent of the product, trends and recipie. We see that sentiment and distillary change, and books in the bartending industry quickly be come outdated. I hope this seminal work will outlive its time for new folks learning the craft.
+As I was learning, I wanted a Foundational book on bartending. Independent of the product, trends and recipe. Sentiment and Market change; books on bartending quickly be come outdated. I hope this work will outlive its time.
+
 Built using **[Hugo](https://gohugo.io/)**, with Lotus Docs template this guide is a hands-on exploration of bartending’s science and art.  
 
 ---
 
-## **Table of Contents**  
+## **Table of Contents (Not confirmed)**  
 - [Introduction](#introduction)  
 - [First Book: Sweetness](#first-book-sweetness)  
 - [Second Book: Freezing](#second-book-freezing)  
