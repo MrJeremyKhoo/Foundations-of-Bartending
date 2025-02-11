@@ -1,10 +1,6 @@
-
 # **Foundations of Bartending**  
 
-**Foundations of Bartending** is an open-source, essential guide to the craft of bartending. This project explores the art of mixology, bar management, hospitality, and the rich cultural history behind cocktails.  
-
-The first book, **"Foundations of Bartending: Sweetness,"** delves into the role of sweetness in drinks—sugars, syrups, and liqueurs—and their impact on balance in cocktails.  
-
+As I was learning, I wanted a Foundational book on bartending. Independent of the product, trends and recipie. We see that sentiment and distillary change, and books in the bartending industry quickly be come outdated. I hope this seminal work will outlive its time for new folks learning the craft.
 Built using **[Hugo](https://gohugo.io/)**, with Lotus Docs template this guide is a hands-on exploration of bartending’s science and art.  
 
 ---
@@ -13,17 +9,16 @@ Built using **[Hugo](https://gohugo.io/)**, with Lotus Docs template this guide 
 - [Introduction](#introduction)  
 - [First Book: Sweetness](#first-book-sweetness)  
 - [Second Book: Freezing](#second-book-freezing)  
-- [Third Book: Alcohol](#third-book-freezing)  
+- [Third Book: Alcohol](#third-book-alcohol)  
 - [Fourth Book: Techniques](#fourth-book-techniques)  
 - [Fifth Book: Flavors](#fifth-book-flavors)  
 - [Sixth Book: Tools](#sixth-book-tools)  
 - [Seventh Book: Service](#seventh-book-service)  
 - [Eighth Book: History](#eighth-book-history)  
-- [Ninth Book: Craft](#ninth-book-craft)  
-- [Tenth Book: Trends](#tenth-book-trends)  
-- [Eleventh Book: Laws](#eleventh-book-laws)  
-- [Twelfth Book: Business](#twelfth-book-business)  
-- [Thirteenth Book: Safety](#thirteenth-book-safety)  
+- [Ninth Book: Creativity](#ninth-book-creativity)  
+- [Tenth Book: Laws](#tenth-book-laws)  
+- [Eleventh Book: Business](#eleventh-book-business)  
+- [Twelfth Book: Safety](#twelfth-book-safety)  
 - [Core Topics](#core-topics)  
 - [Getting Started](#getting-started)  
 - [Project Structure](#project-structure)  
@@ -33,25 +28,6 @@ Built using **[Hugo](https://gohugo.io/)**, with Lotus Docs template this guide 
 ---
 
 ## **Introduction**  
-
-Bartending is about creating experiences. **Foundations of Bartending** covers:  
-- Cocktail fundamentals: sweetness, acidity, dilution, balance.  
-- Bar operations: inventory, cost, supplier management.  
-- Service excellence: guest interaction and creating a welcoming space.  
-- The culture and history behind bartending and cocktails.  
-
----
-
-## **First Book: Sweetness**  
-
-**"Foundations of Bartending: Sweetness"** focuses on sweetness—its types, role, and balance with other flavors. Topics include:  
-- Sweeteners: sugars, syrups, and liqueurs.  
-- The science behind sweetness and its balance with acidity.  
-- Crafting cocktails with the perfect sweetness profile.  
-
-Future books will explore **acidity**, **dilution**, and **balance**.
-
----
 
 ## **Core Topics**  
 
@@ -117,15 +93,22 @@ foundations-of-bartending/
 │-- content/  
 │   ├── _index.md              # Home page  
 │   ├── sweetness/             # Sweetness book  
-│   ├── bar-management/        # Bar operations  
-│   ├── hospitality/           # Guest service  
-│   ├── culture/               # Bar history  
-│   ├── career-development/    # Career tips  
+│   ├── freezing/              # Freezing book  
+│   ├── alcohol/               # Alcohol book  
+│   ├── techniques/            # Techniques book  
+│   ├── flavors/               # Flavors book  
+│   ├── tools/                 # Tools book  
+│   ├── service/               # Service book  
+│   ├── history/               # History book  
+│   ├── creativity/            # Creativity book  
+│   ├── laws/                  # Laws book  
+│   ├── business/              # Business book  
+│   ├── safety/                # Safety book  
 │-- static/                     # Images and media  
 │-- themes/                     # Hugo themes  
 │-- config.toml                 # Configuration  
 │-- README.md                   # Project details  
-```  
+```
 
 ---
 
@@ -142,3 +125,4 @@ Licensed under the **MIT License**. Free to use, modify, and distribute with att
 ## **Stay Connected**  
 - [Instagram](https://www.instagram.com/moistpot)  
 - Email: jeremykhoois@gmail.com  
+
