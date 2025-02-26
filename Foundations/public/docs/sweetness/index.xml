@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sweetness on My New Hugo Site</title>
+    <title>Sweetness on Foundations of Bartending</title>
     <link>http://localhost:1313/docs/sweetness/</link>
-    <description>Recent content in Sweetness on My New Hugo Site</description>
+    <description>Recent content in Sweetness on Foundations of Bartending</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Feb 2025 13:42:11 +0800</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/docs/sweetness/overview/</link>
       <pubDate>Tue, 11 Feb 2025 13:42:11 +0800</pubDate>
       <guid>http://localhost:1313/docs/sweetness/overview/</guid>
-      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview &lt;a href=&#34;#overview&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;In the realm of taste, sweetness is far more than just the molecular presence of sugar or glucose. It is an intricate symphony—a perception shaped by how food is designed, the scents that accompany it, and even the temperature at which it’s enjoyed. Consider, for example, the story of Cadbury’s Dairy Milk. Not long ago, consumers were astounded when the company changed the bar’s shape from angular to more rounded. The recipe remained unchanged, yet tasters reported an unmistakable boost in sweetness. As researchers later explained, our brains tend to associate roundness with sweeter flavors—a subtle crossmodal cue that alters our entire sensory experience. In one study, scientists observed that the rounded chocolate not only melted differently but also released its aroma in a manner that enhanced the perception of sweetness, confirming that a product’s geometry can influence taste perception in profound ways [1].&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/docs/sweetness/overview/Cadbury.png&#34;&gt;s&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the 2010s, Cadbury recieved complaints that their new chocolate was too sweet. Cadbury did not change their recipe. The company only changed the bar’s shape from angular to more rounded but there was an unmistakable boost of sweetness. Research into matter, showed that we have tendencey to  associate roundness with sweeter flavors. But this wasn&amp;rsquo;t the entire story.&lt;/p&gt;&#xA;&lt;p&gt;A roundner shape means higher surface area for the same volume; mean this means that the new chocolate melted faster in the mouth and also had a stronger aroma.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
