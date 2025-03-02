@@ -8,22 +8,13 @@ lastmod: "2025-02-11T13:42:11+08:00"
 draft: false
 ---
 
-In the 2010s, Cadbury recieved complaints that their new chocolate was too sweet. Cadbury did not change their chocolate bar recipie, they only changed the shape.
-Spence a Psychologist suggest it has something to do with cross-modal perception where change in a chape influences how we perceive its taste.
+When it comes to sweetness in drinks bartenders often think of adjusting it by changing the amount of syrup added to the drink. Sometimes that is not ideal, maybe the cocktail has already been prebatched or maybe changing the amount of syrup will throw off texture. Sweetness is a perception and there are many levers we can pull to adjust a drinks perception besides replying on the amount of "sweet" we pour into our drinks.
+
+Cadbury in 2010s learnt of one of the auxiliaries of sweetness. Without changing the amount of sugar added to their beloved milk chocolate, Cadbury started to recieve complaints that their chocolate was too sweet. Spence C. [1] a psychologist posits it had something to do with cross-modal correpondence - there is a correspondance with round foods and sweetness. The more round something is, the sweeter it tends to taste.
 
 {{< image Cadbury.png >}}
 
----
-
-Something like the Bouba/Kiki effect, where regardless of culture, language and age. People rend to associate the spikey shape with the sound "kiki" and the rounder shape with the sound "bouba".
-
-{{< image BouboKiki.jpg >}}
-
----
-
-But this isn't the entire story. Cadbury claims that the rounder chocolate melts in your mouth better, which might also be the reason for sweeter-tasting chocolate. 
-
-As we delve deeper into the realm of sweetness, we'll uncover additional forces of our perception of sweetness. As we become more aware to them, we will be able to pull on more levers to adjust sweetness in drinks than just syrups.
+As we delve deeper into the realm of sweetness, we'll other auxilories of sweetness of our perception of sweetness. As we become more aware to them, we will be able to pull on more levers to adjust sweetness in drinks than just syrups.
 
 ---
 
